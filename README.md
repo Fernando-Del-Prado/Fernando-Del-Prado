@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋
+---------
 
-<!--
-**Fernando-Del-Prado/Fernando-Del-Prado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Who i am ?
 
-Here are some ideas to get you started:
+I am Fernando Del Prado, I am a studtend starting his travel in the ambit educative and laboral
+----------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### FULL STACK DEVELOPER
+--------
+
+## TECHNOLOGIES
+
