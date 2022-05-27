@@ -1,14 +1,17 @@
-### HI 
+## HI 
 ---------
 
-# Who i am ?
+### WHO I AM ?
 
 I am Fernando Del Prado, I am a studtend starting his travel in the ambit educative and laboral
 
- FULL STACK DEVELOPER
---------
+FULL STACK DEVELOPER
 
-## TECHNOLOGIES
 
-![css](/IMAGE_MD/css.png) ![html](/IMAGE_MD/html.png) ![js](/IMAGE_MD/js.png) ![nodejs](/IMAGE_MD/nodejs.png)
+### TECHNOLOGIES:
+
+<pre>
+
+<img src="https://github.com/Fernando-Del-Prado/Fernando-Del-Prado/blob/main/IMAGE_MD/css.png" width="50"><img src="https://github.com/Fernando-Del-Prado/Fernando-Del-Prado/blob/main/IMAGE_MD/html.png" width="50"> <img src="https://github.com/Fernando-Del-Prado/Fernando-Del-Prado/blob/main/IMAGE_MD/js.png" width="50"> <img src="https://github.com/Fernando-Del-Prado/Fernando-Del-Prado/blob/main/IMAGE_MD/nodejs.png" width="50"> <img src="https://github.com/Fernando-Del-Prado/Fernando-Del-Prado/blob/main/IMAGE_MD/git.png" width="50">
+
 
