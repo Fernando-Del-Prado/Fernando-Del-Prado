@@ -10,5 +10,5 @@ I am Fernando Del Prado, I am a studtend starting his travel in the ambit educat
 
 ## TECHNOLOGIES
 
-![css](/image_md/css.png) ![html](/image_md/html.png) ![js](/image_md/js.png) ![nodejs](/image_md/node.png)
+![css](/IMAGE_MD/css.png) ![html](/IMAGE_MD/html.png) ![js](/IMAGE_MD/js.png) ![nodejs](/IMAGE_MD/node.png)
 
