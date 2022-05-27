@@ -17,4 +17,4 @@ FULL STACK DEVELOPER
 
 <pre>
 
-<a href="https://twitter.com/FDelPrado57"><img src="https://github.com/Fernando-Del-Prado/Fernando-Del-Prado" width="50"></a>
+<a href="https://twitter.com/FDelPrado57"><img src="https://github.com/Fernando-Del-Prado/Fernando-Del-Prado/blob/main/IMAGE_MD/Twi.png" width="50"></a>
