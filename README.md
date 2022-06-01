@@ -15,7 +15,6 @@ FULL STACK DEVELOPER
 <img src="https://github.com/Fernando-Del-Prado/Fernando-Del-Prado/blob/main/IMAGE_MD/js.png" width="50">
 <img src="https://github.com/Fernando-Del-Prado/Fernando-Del-Prado/blob/main/IMAGE_MD/nodejs.png" width="50">
 <img src="https://github.com/Fernando-Del-Prado/Fernando-Del-Prado/blob/main/IMAGE_MD/git.png" width="50">
-<img src="https://github.com/Fernando-Del-Prado/Fernando-Del-Prado/blob/main/IMAGE_MD/hub.png" width="50"> 
 </p>
 
 
